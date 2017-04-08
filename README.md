@@ -1,2 +1,2 @@
-# visual-fiha-assets
-A repository to store assets for Visual Fiha
+# Visual Fiha Assets
+A repository to store assets for [Visual Fiha](https://github.com/zeropaper/visual-fiha).
